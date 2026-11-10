@@ -1,14 +1,17 @@
+# Support Desk - MERN Stack Ticket System
+
 <p align="center">
   <a href="#">
     <img alt="mern-app-generator" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" />
   </a>
 </p>
-<h3 align="center">Create, build and deploy MERN stack application.</h3>
+<h3 align="center">A Fullstack MERN Support Ticket System with Redux Toolkit</h3>
 
 ## Introduction
-A Fullstack MERN Support Ticket System with Redux Toolkit.
+A fullstack customer support ticket management application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Redux Toolkit for centralized state management. Users can create an account, log in, submit support tickets, add notes/conversations, and view ticket status in real-time.
+
 ![MERN Stack](https://miro.medium.com/max/1400/1*u8xh3we2xdp9piDGFpaHSg.png)
-![MERN Architerure](https://www.bocasay.com/wp-content/uploads/2020/03/MERN-stack-1.png)
+![MERN Architecture](https://www.bocasay.com/wp-content/uploads/2020/03/MERN-stack-1.png)
 
 ## Getting Started
 
@@ -37,8 +40,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Deployed On
 * [HEROKU](https://heroku.com/)
-  
-  [Support Ticket App](https://support-desk-mern-arifmd.herokuapp.com/)
 
 ### Installation
 
@@ -199,9 +200,9 @@ git commit -m "deploying my-app"
 heroku create my-app
 git push heroku master
 ```
-And within a few seconds, your application will be live at [https://support-desk-mern-arifmd.herokuapp.com/](https://support-desk-mern-arifmd.herokuapp.com/).
+And within a few seconds, your application will be live at `https://<your-app-name>.herokuapp.com/`.
 
 
 ## Author(s)
 
-- **Mohammad Arif** - [mdarif](https://github.com/mdarif)
+- **Viraj Kumar** - [VirajKumar3](https://github.com/VirajKumar3)
